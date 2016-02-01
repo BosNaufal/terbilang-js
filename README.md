@@ -20,7 +20,7 @@ console.log(terbilang(5000000)); // Lima Juta
 ```
 
 ## Vue User?
-You can download [terbilang.js](https://github.com/BosNaufal/terbilang-js) as a Vue Filter [here](https://github.com/BosNaufal/terbilang-js). Check it out!
+You can download [terbilang.js](https://github.com/BosNaufal/terbilang-js) as a Vue Filter [here](https://github.com/BosNaufal/terbilang-vue). Check it out!
 
 ## Hopefully this can be useful~
 Semoga bisa jadi modal buat pecah telor di pasar lokal :v
