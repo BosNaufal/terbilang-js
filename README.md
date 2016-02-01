@@ -4,7 +4,11 @@ Simple Javascript Number Converter which is converting number into indonesian wo
 [DEMO](http://codepen.io/BosNaufal/pen/KVeEOP?editors=0010)
 
 ## Install
-Include the [terbilang.js](./terbilang.js) to your HTML or web page file, Then it's ready to run.
+Include the [terbilang.js](./terbilang.js) to your HTML or web page file, Then it's ready to run. Or you can install via [bower](http://bower.io/) by run:
+```bash
+bower install terbilang-js
+```
+Thanks for contributing, [mychaelgo](https://github.com/mychaelgo)
 
 
 ## Usage
@@ -23,7 +27,7 @@ console.log(terbilang(5000000)); // Lima Juta
 You can download [terbilang.js](https://github.com/BosNaufal/terbilang-js) as a Vue Filter [here](https://github.com/BosNaufal/terbilang-vue). Check it out!
 
 ## Hopefully this can be useful~
-Semoga bisa jadi modal buat pecah telor di pasar lokal :v
+Semoga bisa jadi modal buat pecah telor di pasar lokal :v .
 
 ## Let's talk about some projects with me
 Just Contact Me At:
