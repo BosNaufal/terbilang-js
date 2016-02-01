@@ -1,5 +1,5 @@
 # Terbilang.js
-Simple Javascript Number Converter which is converting number into indonesian words
+Simple Javascript Number Converter which is converting number into indonesian words.
 
 [DEMO](http://codepen.io/BosNaufal/pen/KVeEOP?editors=0010)
 
@@ -18,6 +18,9 @@ alert(terbilang(9000)); // Sembilan Ribu
 // Or use console
 console.log(terbilang(5000000)); // Lima Juta
 ```
+
+## Vue User?
+You can download [terbilang.js](https://github.com/BosNaufal/terbilang-js) as a Vue Filter [here](https://github.com/BosNaufal/terbilang-js). Check it out!
 
 ## Hopefully this can be useful~
 Semoga bisa jadi modal buat pecah telor di pasar lokal :v
