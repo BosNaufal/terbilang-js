@@ -8,8 +8,6 @@ Include the [terbilang.js](./terbilang.js) to your HTML or web page file, Then i
 ```bash
 bower install terbilang-js
 ```
-Thanks for contributing, [mychaelgo](https://github.com/mychaelgo)
-
 
 ## Usage
 ```javascript
@@ -22,6 +20,10 @@ alert(terbilang(9000)); // Sembilan Ribu
 // Or use console
 console.log(terbilang(5000000)); // Lima Juta
 ```
+
+## Thanks for your contributions:
+- [mychaelgo](https://github.com/mychaelgo)
+- [jethro91](https://github.com/jethro91)
 
 ## Vue User?
 You can download [terbilang.js](https://github.com/BosNaufal/terbilang-js) as a Vue Filter [here](https://github.com/BosNaufal/terbilang-vue). Check it out!
