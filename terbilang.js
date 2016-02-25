@@ -50,7 +50,7 @@ function terbilang(a){
 	else if(a < 100000){
 		var utama = a/100;
 		var depan = parseInt(String(utama).substr(0,2));
-		var belakang = a%100;
+		var belakang = a%1000;
 		var kalimat = terbilang(depan) + ' Ribu '+ terbilang(belakang);
 	}
 	// 100,000 - 999,999
