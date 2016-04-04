@@ -8,6 +8,10 @@ Include the [terbilang.js](./terbilang.js) to your HTML or web page file, Then i
 ```bash
 bower install terbilang-js
 ```
+Or via NPM
+```bash
+npm install terbilang-js
+```
 
 ## Usage
 ```javascript

@@ -1,0 +1,24 @@
+{
+  "name": "terbilang-js",
+  "version": "1.0.0",
+  "description": "Convert Number Into Indonesian Words",
+  "main": "terbilang.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BosNaufal/terbilang-js.git"
+  },
+  "keywords": [
+    "indonesia",
+    "terbilang",
+    "bilangan",
+    "number",
+    "to",
+    "word"
+  ],
+  "author": "Naufal Rabbani <bosnaufalemail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BosNaufal/terbilang-js/issues"
+  },
+  "homepage": "https://github.com/BosNaufal/terbilang-js#readme"
+}
