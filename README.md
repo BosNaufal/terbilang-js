@@ -1,5 +1,5 @@
 # Terbilang.js
-Simple Javascript Number Converter which is converting number into indonesian words.
+Simple Javascript Number Converter which is converting number into indonesian words. It's javascript version of [this algorithm](http://notes.rioastamal.net/2012/03/membuat-fungsi-terbilang-pada-php.html) by [@rioastamal](https://github.com/rioastamal)
 
 [DEMO](http://codepen.io/BosNaufal/pen/KVeEOP?editors=0010)
 
