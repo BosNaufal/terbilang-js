@@ -6,7 +6,7 @@
 * Inspired By: http://notes.rioastamal.net/2012/03/membuat-fungsi-terbilang-pada-php.html
 */
 
-function terbilang(a){
+export default function terbilang(a){
 	var bilangan = ['','Satu','Dua','Tiga','Empat','Lima','Enam','Tujuh','Delapan','Sembilan','Sepuluh','Sebelas'];
 
 	// 1 - 11
